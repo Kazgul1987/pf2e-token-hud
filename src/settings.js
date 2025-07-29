@@ -2,8 +2,7 @@ import { registerSetting, settingPath } from "module-api";
 import { MODULE_ID, enableModule, localize } from "./module.js";
 
 export function registerSettings() {
-    const isGM =
-        game.data.users.find((x) => x._id === game.data.userId).role >= CONST.USER_ROLES.GAMEMASTER;
+    const isGM = game.user?.isGM ?? false;
 
     /**
      * GM
