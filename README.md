@@ -3,7 +3,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6M2V13) or [Stripe](https://buy.stripe.com/cN23dy0hd0gW5nq3cc) directly
 
 > [!NOTE]
-> This fork updates compatibility for Foundry VTT v13 and Pathfinder 2e system 7.2.3.
+> This fork updates compatibility for Foundry VTT v13 (build 13.346) and Pathfinder 2e system 7.2.3.
 
 # Main Tooltip
 

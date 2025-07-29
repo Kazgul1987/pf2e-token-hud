@@ -1,3 +1,8 @@
+# 1.68.0
+
+-   update compatibility for Foundry VTT build **13.346**
+-   fixed deprecated `game.data` usage
+
 # 1.67.0
 
 -   made the tooltip usable on hex maps, though the token hover precision makes it hard and awkward to use
